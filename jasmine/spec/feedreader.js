@@ -135,3 +135,5 @@ $(function() {
          });
       });
 }());
+
+// Credit: Big Thanks to MATTHEW CRANFORD
